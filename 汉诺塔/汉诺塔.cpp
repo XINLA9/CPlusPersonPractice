@@ -19,3 +19,7 @@ void hanoi(int n, char x = 'A', char y = 'B', char z = 'C') {
 		hanoi(n - 1, z,y,x);
 	}
 };
+
+int count(int a, int b) {
+	return a + b;
+};
