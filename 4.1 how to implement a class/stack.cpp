@@ -3,9 +3,20 @@
 #include<vector>
 using namespace std;
 
-bool 
+bool
 Stack::empty() {
 	return _stack.empty();
+};
+
+bool 
+Stack::push(const string&) {
+	if (full()) {
+		return false;
+	}
+};
+
+bool Stack::full() {
+	return (_stack.size() == _stack.max_size());
 }
 
 inline bool

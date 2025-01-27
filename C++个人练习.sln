@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "od test", "od test", "{3FF7
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ1 last length of a string", "HJ1 last length of a string\HJ1 last length of a string.vcxproj", "{F11148B1-6BBA-4C5C-BC2A-FB10B99A838B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.2 constructor and destructor", "4.2 constructor and destructor\4.2 constructor and destructor.vcxproj", "{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -115,6 +117,14 @@ Global
 		{F11148B1-6BBA-4C5C-BC2A-FB10B99A838B}.Release|x64.Build.0 = Release|x64
 		{F11148B1-6BBA-4C5C-BC2A-FB10B99A838B}.Release|x86.ActiveCfg = Release|Win32
 		{F11148B1-6BBA-4C5C-BC2A-FB10B99A838B}.Release|x86.Build.0 = Release|Win32
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Debug|x64.ActiveCfg = Debug|x64
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Debug|x64.Build.0 = Debug|x64
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Debug|x86.Build.0 = Debug|Win32
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Release|x64.ActiveCfg = Release|x64
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Release|x64.Build.0 = Release|x64
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Release|x86.ActiveCfg = Release|Win32
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -130,6 +140,7 @@ Global
 		{35B61BB5-247E-4825-A6CB-E40134459DEF} = {63ABD2AB-CB0B-4794-BE3F-8E72A3F8A14D}
 		{CE54A2FC-8773-413F-AA4E-783B44C859C8} = {63ABD2AB-CB0B-4794-BE3F-8E72A3F8A14D}
 		{F11148B1-6BBA-4C5C-BC2A-FB10B99A838B} = {3FF727B8-64BC-4BC1-BE82-BBFC1AF59B37}
+		{53FF6CC5-347D-40A5-BB74-29AC5E519BBD} = {63ABD2AB-CB0B-4794-BE3F-8E72A3F8A14D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {34321313-4357-4C80-A991-EF489BBF8024}
