@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{53ff6cc5-347d-40a5-bb74-29ac5e519bbd}</ProjectGuid>
-    <RootNamespace>My42constructoranddestructor</RootNamespace>
+    <ProjectGuid>{827b03a5-f865-4882-8096-7887ea2b3bed}</ProjectGuid>
+    <RootNamespace>激光打印导航</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -128,11 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Triangular.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Matrix.h" />
-    <ClInclude Include="Triangular.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
