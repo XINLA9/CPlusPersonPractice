@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{A93F596F-C55E-4216-A822-D426E031B0B4}</ProjectGuid>
-    <RootNamespace>天平平衡</RootNamespace>
+    <ProjectGuid>{4c310fbc-cc5b-4e77-9fc4-006a01763e3f}</ProjectGuid>
+    <RootNamespace>服务器攻击</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

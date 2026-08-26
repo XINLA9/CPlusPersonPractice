@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{A93F596F-C55E-4216-A822-D426E031B0B4}</ProjectGuid>
-    <RootNamespace>天平平衡</RootNamespace>
+    <ProjectGuid>{71530096-7117-4c04-9d8f-fffac8db3f0d}</ProjectGuid>
+    <RootNamespace>找子数组的最小最大中位数</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
