@@ -16,9 +16,9 @@ string recurisve(int no, unsigned long long index, bool flip = 0) {
 }
 
 int main() {
-    cout << 1 << 0 << recurisve(1, 0) << endl;
-    cout << 2 << 1 << recurisve(2, 1) << endl;
-    cout << 3 << 2 << recurisve(3, 2) << endl;
-    cout << 4 << 6 << recurisve(4, 6) << endl;
-    cout << 5 << 8 << recurisve(5, 8) << endl;
+    cout << 1 << " " << 0 << " " << recurisve(1, 0) << endl;
+    cout << 2 << " " << 1 << " " << recurisve(2, 1) << endl;
+    cout << 3 << " " << 2 << " " << recurisve(3, 2) << endl;
+    cout << 4 << " " << 6 << " " << recurisve(4, 6) << endl;
+    cout << 5 << " " << 8 << " " << recurisve(5, 8) << endl;
 }
